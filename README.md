@@ -4,4 +4,4 @@ This is a simple Android App that can be handy whenever people visit restaurants
 
 ## Design of the App
 
-![Image](Screenshot_Tip_App.png)
+<img src="./Screenshot_Tip_App.png" width="290" height="630">
